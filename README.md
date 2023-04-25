@@ -3,6 +3,7 @@ Criação e uso de ASP.NET Web API para realizar métodos HTTP com Migration.
 
 É possível adicionar, pesquisar, pesquisar e atualizar por id, atualizar todos os dados, atualizar alguns dados específicos e deletar filmes.
 <br>
+<br>
 Os filmes seguem a estrutura de: Título, Gênero e Duração.
 <hr>
 <br>
